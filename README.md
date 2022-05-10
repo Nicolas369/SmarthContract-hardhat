@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+# Made by Nicolas Gabrenas
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+deploy the smart contract of the application https://github.com/Nicolas369/next-dapp
